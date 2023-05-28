@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<img src="![image](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/8e5ab143-fdb9-4e3f-a612-f14f673774cf)" height="500" width="500" >
+<img src="![Untitled design](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/ca081515-42fe-4ae8-b879-f3fe8db6f381)" height="500" width="500" >
   </p>
 
 <!--
