@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![Untitled design](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/9797261c-6f18-45da-84ab-de9f5d6f291f)
-
+![image](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/ad223683-6016-4c55-acbb-c9dec70c963d)
 <!--
 **HarshitaPandey08/HarshitaPandey08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
