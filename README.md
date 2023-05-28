@@ -1,9 +1,6 @@
 ### Hi there 👋
-<p align="center">
   
-<img src="![Untitled design (1)](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/a50ddbdc-da8e-4365-bd2c-df74d7e3e609)" height="500" width="500" >
-  
-  </p>
+![Untitled design (1)](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/9612426c-dbfe-474c-ad77-962013998c1f)
 
 <!--
 **HarshitaPandey08/HarshitaPandey08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
