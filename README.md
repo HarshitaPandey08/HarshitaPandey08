@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/ad223683-6016-4c55-acbb-c9dec70c963d)
-<!--
+![image](https://github.com/HarshitaPandey08/HarshitaPandey08/assets/53274845/c8c6f0b2-0f3d-4d82-8808-de0b7a45d66e)<!--
 **HarshitaPandey08/HarshitaPandey08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
